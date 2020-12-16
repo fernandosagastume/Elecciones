@@ -1,0 +1,65 @@
+-- Departamento de Guatemala
+INSERT INTO Empadronado VALUES(1111000010101,'Juan Ignacio', 'Perez Ovalle', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000020101,'Jose Luis', 'Hernandez Giron', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000030101,'Francisco', 'Guzman Ortega', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000040101,'Jose Luis', 'Hernandez Giron', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000050101,'Daniel', 'Lara Del Cid', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000060101,'Maria Alejandra', 'Marroquin Dominguez', 'Zona 10', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000070101,'Vanessa', 'Rubio Del Valle', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000080101,'David', 'Vela Brolo', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000090101,'Edison', 'Blanco Luna', 'Zona 2', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000100101,'Jorge', 'Guerrero Paz', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000110101,'Nahomy', 'Stanley Callahan', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000120101,'Amelia', 'Sagastume Garcia', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000130101,'Victoria', 'Maldonado Walton', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000140101,'Angel', 'Garcia Duarte', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000150101,'Lylian', 'Duarte Rivera', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+INSERT INTO Empadronado VALUES(1111000160101,'Braxton', 'Posadas Alvarez', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000170101,'Fernando', 'Ayala Hernandez', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000180101,'Celeste', 'Muralles Galvez', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000190101,'Rosina', 'Del Cid Galindo', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000200101,'Estephany', 'Mendoza Clark', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000210101,'Walter Adolfo', 'Lopez Garabito', 'Zona 10', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000220101,'Irene', 'Garcia Garcia', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000230101,'Alexa', 'Rodriguez Rivera', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000240101,'Diego', 'Valdez Rivera', 'Zona 2', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000250101,'Chloe', 'Palacios Pereira', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000260101,'Alicia', 'Navarro Harrison', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000270101,'Camila', 'Reyes Muralles', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000280101,'Kimberly', 'Roldan Tovar', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000290101,'Corina', 'Hernandez Cortes', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000300101,'Sofia', 'Barillas Arroyo', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+-- Departamento de Guatemala
+INSERT INTO Empadronado VALUES(1111000312201,'Fernanda', 'Morales Acosta', 'Zona 1', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000322201,'Johnny', 'Calderon Solis', 'Zona 4', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000332201,'Katheryn', 'Martinez Jimenez', 'Zona 16', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000342201,'Fatima', 'Ibarra Rivera', 'Zona 4', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000352201,'Teresa', 'Mendoza Lara', 'Zona 9', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000362201,'Diego', 'Paredes Pereda', 'Zona 10', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000372201,'Mariano', 'Paz Gonzalez', 'Zona 8', 2201, 22, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000381301,'Julio Javier', 'Toledo Salazar', 'Zona 1', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000391301,'Otto', 'Salazar Flores', 'Zona 2', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000401301,'Ruth', 'Clark Mendoza', 'Zona 8', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000411301,'Maria Fernanda', 'Solares Solis', 'Zona 1', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000421301,'Adriana', 'Pacheco Luna', 'Zona 4', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000431301,'Amilcar', 'Morataya Roldan', 'Zona 16', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000441301,'Jose Luis', 'Hernandez Giron', 'Zona 4', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000451301,'Ximena', 'Soto Soto', 'Zona 9', 1301, 13, NULL, NULL, NULL, NULL, NULL);
+
+INSERT INTO Empadronado VALUES(1111000460102,'Guillermo', 'Sandoval Molina', 'Zona 1', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000470102,'Emilio', 'Molina Denilson', 'Zona 4', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000480102,'Priscila', 'Morales Vela', 'Zona 16', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000490102,'Eddy', 'Cabrera Fuentes', 'Zona 4', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000500102,'Evelyn', 'Ortega Pereda', 'Zona 9', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000510102,'Lucia', 'Cruz Morataya', 'Zona 10', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000520102,'Angela', 'Coles Gates', 'Zona 8', 0102, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000530103,'Gabriela', 'Flores Briggs', 'Zona 1', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000540103,'James', 'Gutierrez Aguilar', 'Zona 2', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000550103,'Michelle', 'Aguilar Cruz', 'Zona 8', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000560103,'Fredy', 'Farfan Bermudez', 'Zona 1', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000570103,'Sandra', 'Sandoval Paz', 'Zona 4', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000580103,'Karla Guissel', 'Lopez Gomez', 'Zona 16', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000590103,'Marcelo Alfredo', 'Del Aguila Moraga', 'Zona 4', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(1111000600103,'Rodrigo Alberto', 'Cordero Alvarez', 'Zona 9', 0103, 01, NULL, NULL, NULL, NULL, NULL);

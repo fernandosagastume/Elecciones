@@ -1,0 +1,189 @@
+--Nombre e informacion de Partidos politicos:
+
+--1. Nombre: Todos
+   --Acronimo: TODOS
+   --Secretario General: Felipe Alejos
+--2. Nombre: FCN	
+   --Acronimo: FCN
+   --Secretario General: Javier Ovalle
+--3. Nombre: Movimiento Semilla
+   --Acronimo: SEMILLA
+   --Secretario General: Samuel Alvarez
+--4. Nombre: Valor 
+   --Acronimo: VALOR
+   --Secretario General: Ana Cofiño
+--5. Nombre: Pan
+   --Acronimo: PAN
+   --Secretario General: Juan Gutiérrez
+--6. Nombre: Unión de Cambio Nacional
+   --Acronimo: UCN
+   --Secretario General: Mario Estrada
+--7. Nombre: Vamos
+   --Acronimo: VAMOS
+   --Secretario General: Alejandro Giammattei Falla
+--8. Nombre: URNG
+   --Acronimo: URNG
+   --Secretario General: Ángel Sánchez Viesca
+
+--Script Presidencia:
+
+--Candidatos a presidencia--
+
+--Partido FCN:
+INSERT INTO empadronado VALUES(3025135132484,'Estuardo', 'Galdamez Juárez', 'Zona 3', 1401, 14, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO empadronado VALUES(3025135132485,'Betty', 'Marroquín', 'Zona 3', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+--Partido TODOS:
+INSERT INTO empadronado VALUES(3025135132486,'Fredy', 'Cabrera Martínez', 'Zona 6', 0501, 5, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO empadronado VALUES(3025135132487,'Ricardo', 'Sagastume', 'Zona 12', 0103, 01, NULL, NULL, NULL, NULL, NULL);
+
+--Partido Pan:
+INSERT INTO empadronado VALUES(3025135132494,'Roberto', 'Arzú', 'Zona 7', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO empadronado VALUES(3025135132495,'Jose', 'Farias', 'Zona 14', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+--Partido Vamos:
+INSERT INTO empadronado VALUES(3025135132490,'Alejandro', 'Giammattei Falla', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO empadronado VALUES(3025135132491,'Guillermo', 'Castillo', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+--Partido Valor:
+INSERT INTO empadronado VALUES(3025135132492,'Zury', 'Ríos Sosa', 'Zona 10', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO empadronado VALUES(3025135132493,'Roberto', 'Molina Barreto', 'Zona 13', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+-- Candidatos a Alcaldía:
+
+INSERT INTO alcalde VALUES(1111000010101,'Todos', 0101);
+INSERT INTO alcalde VALUES(1111000020101,'FCN', 0101);
+INSERT INTO alcalde VALUES(1111000030101,'Movimiento Semilla', 0101);
+INSERT INTO alcalde VALUES(1111000040101,'Valor', 0101);
+INSERT INTO alcalde VALUES(1111000050101,'Pan', 0101);
+INSERT INTO alcalde VALUES(1111000060101,'Unión de Cambio Nacional', 0101);
+INSERT INTO alcalde VALUES(1111000070101,'Vamos', 0101);
+INSERT INTO alcalde VALUES(1111000080101,'URNG', 0101);
+
+INSERT INTO alcalde VALUES(1111000090101,'Todos', 0102);
+INSERT INTO alcalde VALUES(1111000100101,'FCN', 0102);
+INSERT INTO alcalde VALUES(1111000110101,'Movimiento Semilla', 0102);
+INSERT INTO alcalde VALUES(1111000120101,'Valor', 0102);
+INSERT INTO alcalde VALUES(1111000130101,'Pan', 0102);
+INSERT INTO alcalde VALUES(1111000140101,'Unión de Cambio Nacional', 0102);
+INSERT INTO alcalde VALUES(1111000150101,'Vamos', 0102);
+
+INSERT INTO alcalde VALUES(1111000160101,'URNG', 0102);
+INSERT INTO alcalde VALUES(1111000170101,'Todos', 0103);
+INSERT INTO alcalde VALUES(1111000180101,'Movimiento Semilla', 0103);
+INSERT INTO alcalde VALUES(1111000190101,'Valor', 0103);
+INSERT INTO alcalde VALUES(1111000200101,'Pan', 0103);
+INSERT INTO alcalde VALUES(1111000210101,'Unión de Cambio Nacional', 0103);
+INSERT INTO alcalde VALUES(1111000220101,'URNG', 0103);
+INSERT INTO alcalde VALUES(1111000312201,'FCN', 0103);
+INSERT INTO alcalde VALUES(1111000322201,'Vamos', 0103);
+
+INSERT INTO alcalde VALUES(1111000230101,'Todos', 0201);
+INSERT INTO alcalde VALUES(1111000240101,'Movimiento Semilla', 0201);
+INSERT INTO alcalde VALUES(1111000250101,'Valor', 0201);
+INSERT INTO alcalde VALUES(1111000260101,'Pan', 0201);
+INSERT INTO alcalde VALUES(1111000270101,'Unión de Cambio Nacional', 0201);
+INSERT INTO alcalde VALUES(1111000280101,'URNG', 0201);
+INSERT INTO alcalde VALUES(1111000290101,'FCN', 0201);
+INSERT INTO alcalde VALUES(1111000300101,'Vamos', 0201);
+
+INSERT INTO alcalde VALUES(1111000332201,'Todos', 2201);
+INSERT INTO alcalde VALUES(1111000342201,'FCN', 2201);
+INSERT INTO alcalde VALUES(1111000352201,'Movimiento Semilla', 2201);
+INSERT INTO alcalde VALUES(1111000362201,'Valor', 2201);
+INSERT INTO alcalde VALUES(1111000372201,'Pan', 2201);
+INSERT INTO alcalde VALUES(1111000381301,'Unión de Cambio Nacional', 2201);
+INSERT INTO alcalde VALUES(1111000391301,'Vamos', 2201);
+INSERT INTO alcalde VALUES(1111000401301,'URNG', 2201);
+
+INSERT INTO alcalde VALUES(1111000411301,'Todos', 1301);
+INSERT INTO alcalde VALUES(1111000421301,'FCN', 1301);
+INSERT INTO alcalde VALUES(1111000431301,'Movimiento Semilla', 1301);
+INSERT INTO alcalde VALUES(1111000441301,'Valor', 1301);
+INSERT INTO alcalde VALUES(1111000451301,'Pan', 1301);
+INSERT INTO alcalde VALUES(1111000460102,'Unión de Cambio Nacional', 1301);
+INSERT INTO alcalde VALUES(1111000470102,'Vamos', 1301);
+INSERT INTO alcalde VALUES(1111000480102,'URNG', 1301);
+
+INSERT INTO alcalde VALUES(1111000490102,'Todos', 0401);
+INSERT INTO alcalde VALUES(1111000500102,'FCN', 0401);
+INSERT INTO alcalde VALUES(1111000510102,'Movimiento Semilla', 0401);
+INSERT INTO alcalde VALUES(1111000520102,'Valor', 0401);
+INSERT INTO alcalde VALUES(1111000530103,'Pan', 0401);
+INSERT INTO alcalde VALUES(1111000540103,'Unión de Cambio Nacional', 0401);
+INSERT INTO alcalde VALUES(1111000550103,'Vamos', 0401);
+INSERT INTO alcalde VALUES(1111000560103,'URNG', 0401);   
+
+
+--Mas empadronados
+
+INSERT INTO Empadronado VALUES(37709419382736,'Oriol', 'Aguilar Lopez', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(82588835712522,'Luis', 'Estufas Hernandez', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(45493851695209,'Andres', 'Guzman Vespucio', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(2467872854322,'Jose David', 'Lopez Giron', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(14184750663116,'John', 'Lara España', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(6724963057786,'Maria Andrea', 'Colindres Dominguez', 'Zona 10', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211056,'Fatima', 'Cabrera del Valle', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211057,'Angelica', 'Xion Broco', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211058,'Alba', 'Edison Luna', 'Zona 2', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211059,'Elrasho', 'Makuin Machine', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211060,'Julio', 'Bloffoski Estrada', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211061,'Bernoulli', 'Sagastume Andes', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211062,'Puvlo', 'Maldonado Wattson', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211063,'Mauricio', 'Risin Duarte', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211064,'Enrique', 'Peña Nieto', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+INSERT INTO Empadronado VALUES(74383454211065,'Jimmy', 'Morales Corrup', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211066,'Fernando', 'Sagas Cerna', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211067,'David', 'Sagastume Cerna', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211068,'Roslinda', 'Peña Galindo', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211069,'Jonathan', 'Rosales Clark', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211070,'Yuya', 'Lopez Catapasio', 'Zona 10', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211071,'Dillion', 'Harper Wattson', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211072,'Alexa', 'Rodriguez Mato', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211073,'Alejandro', 'Valdez Pinto', 'Zona 2', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211074,'Lionel', 'Palacios Ordoñez', 'Zona 8', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211075,'Hortencia', 'Navarro Lopez', 'Zona 1', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211076,'Camila', 'Alvarado Morales', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211077,'Stella', 'Gonzales Tovar', 'Zona 16', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211078,'Manuel', 'Hernandez Sagastume', 'Zona 4', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+INSERT INTO Empadronado VALUES(74383454211079,'Hany', 'Barillas Hernandez', 'Zona 9', 0101, 01, NULL, NULL, NULL, NULL, NULL);
+
+-- 4 partidos Diputados departamentales en Guatemala
+
+INSERT INTO congreso VALUES(37709419382736,1, 'Todos',1);
+INSERT INTO congreso VALUES(82588835712522,1, 'Todos', 2);
+INSERT INTO congreso VALUES(45493851695209,1, 'Todos', 3);
+INSERT INTO congreso VALUES(2467872854322,1, 'Todos', 4);
+INSERT INTO congreso VALUES(14184750663116,1, 'FCN', 1);
+INSERT INTO congreso VALUES(6724963057786,1, 'FCN', 2);
+INSERT INTO congreso VALUES(74383454211056,1, 'FCN', 3);
+INSERT INTO congreso VALUES(74383454211057,1, 'FCN', 4);
+INSERT INTO congreso VALUES(74383454211058,1, 'Movimiento Semilla', 1);
+INSERT INTO congreso VALUES(74383454211059,1, 'Movimiento Semilla', 2);
+INSERT INTO congreso VALUES(74383454211060,1, 'Movimiento Semilla', 3);
+INSERT INTO congreso VALUES(74383454211061,1, 'Movimiento Semilla', 4);
+INSERT INTO congreso VALUES(74383454211062,1, 'Vamos', 1);
+INSERT INTO congreso VALUES(74383454211063,1, 'Vamos',2);
+INSERT INTO congreso VALUES(74383454211064,1, 'Vamos',3);
+INSERT INTO congreso VALUES(74383454211065,1, 'Vamos',4);
+
+-- 2 partidos con otro departamento (Jutiapa)
+
+INSERT INTO congreso VALUES(74383454211066,22, 'Pan',1);
+INSERT INTO congreso VALUES(74383454211067,22, 'Pan',2);
+INSERT INTO congreso VALUES(74383454211068,22, 'Pan',3);
+INSERT INTO congreso VALUES(74383454211069,22, 'Valor',1);
+INSERT INTO congreso VALUES(74383454211070,22, 'Valor',2);
+INSERT INTO congreso VALUES(74383454211071,22, 'Valor',3);
+
+-- 4 partidos para Lista nacional
+
+INSERT INTO congreso VALUES(74383454211072,0, 'Todos',1);
+INSERT INTO congreso VALUES(74383454211073,0,'Todos',2);
+INSERT INTO congreso VALUES(74383454211074,0,'FCN',1);
+INSERT INTO congreso VALUES(74383454211075,0,'FCN',2);
+INSERT INTO congreso VALUES(74383454211076,0,'Vamos',1);
+INSERT INTO congreso VALUES(74383454211077,0,'Vamos',2);
+INSERT INTO congreso VALUES(74383454211078,0,'Valor',1);
+INSERT INTO congreso VALUES(74383454211079,0,'Valor',2);
